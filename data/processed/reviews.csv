@@ -1,0 +1,121 @@
+review_id,product_id,rating,comment,review_date
+R0001,P005,4.0,"Produit satisfaisant, batterie correcte.",2026-03-11
+R0002,P021,5.0,"Excellent son, je recommande.",2026-02-02
+R0003,P017,3.0,"Excellent son, je recommande.",2026-03-17
+R0004,P004,4.0,Interface fluide et installation facile.,2026-02-01
+R0005,P020,3.0,Livraison rapide mais emballage moyen.,2026-03-09
+R0006,P025,5.0,Quelques lenteurs observées.,2026-02-05
+R0007,P024,3.0,"Produit satisfaisant, batterie correcte.",2026-02-06
+R0008,P007,5.0,Autonomie décevante après une semaine.,2026-02-25
+R0009,P024,4.0,Bon produit pour un usage quotidien.,2026-02-22
+R0010,P012,3.0,Interface fluide et installation facile.,2026-02-20
+R0011,P023,5.0,Interface fluide et installation facile.,2026-03-22
+R0012,P013,5.0,Très bon rapport qualité prix.,2026-03-29
+R0013,P020,2.0,Livraison rapide mais emballage moyen.,2026-02-11
+R0014,P005,,"Produit satisfaisant, batterie correcte.",2026-03-16
+R0015,P016,2.0,"Excellent son, je recommande.",2026-03-01
+R0016,P025,5.0,Quelques lenteurs observées.,2026-03-04
+R0017,P003,5.0,Bon produit pour un usage quotidien.,2026-02-27
+R0018,P017,4.0,Autonomie décevante après une semaine.,2026-03-21
+R0019,P018,5.0,Très bon rapport qualité prix.,2026-02-23
+R0020,P003,4.0,Très bon rapport qualité prix.,2026-02-19
+R0021,P012,5.0,Bon produit pour un usage quotidien.,2026-03-06
+R0022,P001,2.0,Quelques lenteurs observées.,2026-03-11
+R0023,P020,2.0,"Produit satisfaisant, batterie correcte.",2026-02-14
+R0024,P015,4.0,Autonomie décevante après une semaine.,2026-03-22
+R0025,P004,3.0,"Excellent son, je recommande.",2026-02-21
+R0026,P015,2.0,"Produit satisfaisant, batterie correcte.",2026-03-04
+R0027,P017,5.0,Quelques lenteurs observées.,2026-02-12
+R0028,P011,3.0,Quelques lenteurs observées.,2026-03-07
+R0029,P011,5.0,Autonomie décevante après une semaine.,2026-03-05
+R0030,P010,5.0,Interface fluide et installation facile.,2026-02-05
+R0031,P023,4.0,"Produit satisfaisant, batterie correcte.",2026-02-28
+R0032,P016,2.0,Bon produit pour un usage quotidien.,2026-03-31
+R0033,P025,2.0,Interface fluide et installation facile.,2026-03-09
+R0034,P013,4.0,Quelques lenteurs observées.,2026-03-18
+R0035,P024,5.0,Quelques lenteurs observées.,2026-02-19
+R0036,P012,2.0,Quelques lenteurs observées.,2026-02-02
+R0037,P019,4.0,Livraison rapide mais emballage moyen.,2026-03-24
+R0038,P012,5.0,Bon produit pour un usage quotidien.,2026-03-26
+R0039,P021,5.0,Interface fluide et installation facile.,2026-02-06
+R0040,P004,4.0,Autonomie décevante après une semaine.,2026-02-28
+R0041,P008,5.0,Quelques lenteurs observées.,2026-03-06
+R0042,P009,3.0,Interface fluide et installation facile.,2026-02-15
+R0043,P006,4.0,Livraison rapide mais emballage moyen.,2026-02-05
+R0044,P025,5.0,Très bon rapport qualité prix.,2026-03-06
+R0045,P009,3.0,Interface fluide et installation facile.,2026-03-19
+R0046,P001,5.0,Autonomie décevante après une semaine.,2026-02-07
+R0047,P018,3.0,"Excellent son, je recommande.",2026-02-13
+R0048,P023,3.0,Livraison rapide mais emballage moyen.,2026-03-21
+R0049,P023,5.0,Très bon rapport qualité prix.,2026-02-12
+R0050,P006,5.0,Bon produit pour un usage quotidien.,2026-03-02
+R0051,P014,5.0,Bon produit pour un usage quotidien.,2026-03-16
+R0052,P008,5.0,Interface fluide et installation facile.,2026-03-28
+R0053,P020,5.0,Interface fluide et installation facile.,2026-02-10
+R0054,P009,4.0,"Excellent son, je recommande.",2026-03-23
+R0055,P008,4.0,"Produit satisfaisant, batterie correcte.",2026-02-23
+R0056,P007,5.0,Très bon rapport qualité prix.,2026-02-20
+R0057,P024,4.0,Bon produit pour un usage quotidien.,2026-02-03
+R0058,P005,2.0,Interface fluide et installation facile.,2026-03-26
+R0059,P004,2.0,Quelques lenteurs observées.,2026-03-02
+R0060,P022,5.0,"Produit satisfaisant, batterie correcte.",2026-03-01
+R0061,P020,5.0,Autonomie décevante après une semaine.,2026-02-21
+R0062,P018,5.0,Bon produit pour un usage quotidien.,2026-03-05
+R0063,P005,3.0,"Produit satisfaisant, batterie correcte.",2026-03-01
+R0064,P002,2.0,Interface fluide et installation facile.,2026-03-18
+R0065,P021,2.0,Livraison rapide mais emballage moyen.,2026-02-03
+R0066,P023,3.0,Bon produit pour un usage quotidien.,2026-03-01
+R0067,P023,5.0,Livraison rapide mais emballage moyen.,2026-02-24
+R0068,P005,4.0,"Excellent son, je recommande.",2026-02-25
+R0069,P003,4.0,Interface fluide et installation facile.,2026-03-16
+R0070,P006,5.0,"Produit satisfaisant, batterie correcte.",2026-03-23
+R0071,P005,5.0,Interface fluide et installation facile.,2026-02-05
+R0072,P017,4.0,Très bon rapport qualité prix.,2026-03-08
+R0073,P011,5.0,Quelques lenteurs observées.,2026-02-19
+R0074,P017,4.0,Livraison rapide mais emballage moyen.,2026-02-22
+R0075,P004,2.0,Livraison rapide mais emballage moyen.,2026-03-31
+R0076,P016,4.0,"Excellent son, je recommande.",2026-03-14
+R0077,P022,5.0,Quelques lenteurs observées.,2026-02-09
+R0078,P022,5.0,Très bon rapport qualité prix.,2026-02-20
+R0079,P023,5.0,Quelques lenteurs observées.,2026-03-14
+R0080,P018,4.0,Livraison rapide mais emballage moyen.,2026-03-15
+R0081,P003,5.0,Très bon rapport qualité prix.,2026-03-14
+R0082,P003,5.0,Quelques lenteurs observées.,2026-03-05
+R0083,P017,4.0,"Produit satisfaisant, batterie correcte.",2026-02-24
+R0084,P002,4.0,Livraison rapide mais emballage moyen.,2026-02-14
+R0085,P020,4.0,Bon produit pour un usage quotidien.,2026-02-13
+R0086,P004,3.0,Livraison rapide mais emballage moyen.,2026-02-05
+R0087,P006,4.0,Très bon rapport qualité prix.,2026-03-05
+R0088,P014,5.0,"Produit satisfaisant, batterie correcte.",2026-03-15
+R0089,P011,4.0,Livraison rapide mais emballage moyen.,2026-03-11
+R0090,P017,4.0,Livraison rapide mais emballage moyen.,2026-02-11
+R0091,P012,3.0,Livraison rapide mais emballage moyen.,2026-03-19
+R0092,P023,4.0,"Produit satisfaisant, batterie correcte.",2026-02-27
+R0093,P025,4.0,Autonomie décevante après une semaine.,2026-03-01
+R0094,P014,5.0,"Excellent son, je recommande.",2026-03-21
+R0095,P022,5.0,Bon produit pour un usage quotidien.,2026-02-15
+R0096,P001,4.0,Autonomie décevante après une semaine.,2026-02-24
+R0097,P017,5.0,Bon produit pour un usage quotidien.,2026-03-02
+R0098,P015,4.0,Quelques lenteurs observées.,2026-03-05
+R0099,P019,5.0,Quelques lenteurs observées.,2026-02-11
+R0100,P022,3.0,Livraison rapide mais emballage moyen.,2026-03-28
+R0101,P020,4.0,"Produit satisfaisant, batterie correcte.",2026-03-14
+R0102,P002,4.0,Interface fluide et installation facile.,2026-03-08
+R0103,P001,2.0,Très bon rapport qualité prix.,2026-02-19
+R0104,P015,2.0,Livraison rapide mais emballage moyen.,2026-02-18
+R0105,P009,4.0,Livraison rapide mais emballage moyen.,2026-03-26
+R0106,P015,4.0,Très bon rapport qualité prix.,2026-03-31
+R0107,P002,3.0,Bon produit pour un usage quotidien.,2026-03-29
+R0108,P009,4.0,Quelques lenteurs observées.,2026-02-04
+R0109,P003,4.0,Interface fluide et installation facile.,2026-02-16
+R0110,P017,4.0,Très bon rapport qualité prix.,2026-02-24
+R0111,P024,3.0,"Produit satisfaisant, batterie correcte.",2026-02-21
+R0112,P011,2.0,Interface fluide et installation facile.,2026-03-23
+R0113,P004,3.0,Bon produit pour un usage quotidien.,2026-03-17
+R0114,P016,3.0,Bon produit pour un usage quotidien.,2026-03-01
+R0115,P010,5.0,"Produit satisfaisant, batterie correcte.",2026-03-30
+R0116,P022,2.0,"Produit satisfaisant, batterie correcte.",2026-02-17
+R0117,P001,3.0,Quelques lenteurs observées.,2026-02-08
+R0118,P025,4.0,Autonomie décevante après une semaine.,2026-02-20
+R0119,P012,2.0,"Produit satisfaisant, batterie correcte.",2026-02-16
+R0120,P008,4.0,Bon produit pour un usage quotidien.,2026-02-05

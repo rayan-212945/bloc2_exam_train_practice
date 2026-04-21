@@ -1,0 +1,26 @@
+# Environnement virtuel
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+
+# Modèles ML
+models/
+
+# Fichiers système
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environnement virtuel
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+

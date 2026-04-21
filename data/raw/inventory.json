@@ -1,0 +1,908 @@
+[
+  {
+    "product_id": "P001",
+    "store_id": "S01",
+    "stock_qty": 3,
+    "last_update": "2026-03-30T06:00:00"
+  },
+  {
+    "product_id": "P001",
+    "store_id": "S02",
+    "stock_qty": 11,
+    "last_update": "2026-03-29T05:00:00"
+  },
+  {
+    "product_id": "P001",
+    "store_id": "S03",
+    "stock_qty": 59,
+    "last_update": "2026-03-29T06:00:00"
+  },
+  {
+    "product_id": "P001",
+    "store_id": "S04",
+    "stock_qty": 7,
+    "last_update": "2026-03-29T15:00:00"
+  },
+  {
+    "product_id": "P001",
+    "store_id": "S05",
+    "stock_qty": 42,
+    "last_update": "2026-03-28T21:00:00"
+  },
+  {
+    "product_id": "P001",
+    "store_id": "S06",
+    "stock_qty": 9,
+    "last_update": "2026-03-30T11:00:00"
+  },
+  {
+    "product_id": "P002",
+    "store_id": "S01",
+    "stock_qty": 11,
+    "last_update": "2026-03-30T07:00:00"
+  },
+  {
+    "product_id": "P002",
+    "store_id": "S02",
+    "stock_qty": 49,
+    "last_update": "2026-03-30T17:00:00"
+  },
+  {
+    "product_id": "P002",
+    "store_id": "S03",
+    "stock_qty": 59,
+    "last_update": "2026-03-29T12:00:00"
+  },
+  {
+    "product_id": "P002",
+    "store_id": "S04",
+    "stock_qty": 35,
+    "last_update": "2026-03-31T13:00:00"
+  },
+  {
+    "product_id": "P002",
+    "store_id": "S05",
+    "stock_qty": 56,
+    "last_update": "2026-03-31T18:00:00"
+  },
+  {
+    "product_id": "P002",
+    "store_id": "S06",
+    "stock_qty": 27,
+    "last_update": "2026-03-29T15:00:00"
+  },
+  {
+    "product_id": "P003",
+    "store_id": "S01",
+    "stock_qty": 26,
+    "last_update": "2026-03-29T04:00:00"
+  },
+  {
+    "product_id": "P003",
+    "store_id": "S02",
+    "stock_qty": 52,
+    "last_update": "2026-03-30T00:00:00"
+  },
+  {
+    "product_id": "P003",
+    "store_id": "S03",
+    "stock_qty": 67,
+    "last_update": "2026-03-29T12:00:00"
+  },
+  {
+    "product_id": "P003",
+    "store_id": "S04",
+    "stock_qty": 33,
+    "last_update": "2026-03-31T05:00:00"
+  },
+  {
+    "product_id": "P003",
+    "store_id": "S05",
+    "stock_qty": -3,
+    "last_update": "2026-03-31T04:00:00"
+  },
+  {
+    "product_id": "P003",
+    "store_id": "S06",
+    "stock_qty": 36,
+    "last_update": "2026-03-28T19:00:00"
+  },
+  {
+    "product_id": "P004",
+    "store_id": "S01",
+    "stock_qty": 4,
+    "last_update": "2026-03-31T15:00:00"
+  },
+  {
+    "product_id": "P004",
+    "store_id": "S02",
+    "stock_qty": 1,
+    "last_update": "2026-03-31T02:00:00"
+  },
+  {
+    "product_id": "P004",
+    "store_id": "S03",
+    "stock_qty": 48,
+    "last_update": "2026-03-30T08:00:00"
+  },
+  {
+    "product_id": "P004",
+    "store_id": "S04",
+    "stock_qty": 11,
+    "last_update": "2026-03-30T02:00:00"
+  },
+  {
+    "product_id": "P004",
+    "store_id": "S05",
+    "stock_qty": 62,
+    "last_update": "2026-03-30T08:00:00"
+  },
+  {
+    "product_id": "P004",
+    "store_id": "S06",
+    "stock_qty": 29,
+    "last_update": "2026-03-30T19:00:00"
+  },
+  {
+    "product_id": "P005",
+    "store_id": "S01",
+    "stock_qty": 65,
+    "last_update": "2026-03-29T07:00:00"
+  },
+  {
+    "product_id": "P005",
+    "store_id": "S02",
+    "stock_qty": 34,
+    "last_update": "2026-03-30T18:00:00"
+  },
+  {
+    "product_id": "P005",
+    "store_id": "S03",
+    "stock_qty": 77,
+    "last_update": "2026-03-30T15:00:00"
+  },
+  {
+    "product_id": "P005",
+    "store_id": "S04",
+    "stock_qty": 77,
+    "last_update": "2026-03-30T07:00:00"
+  },
+  {
+    "product_id": "P005",
+    "store_id": "S05",
+    "stock_qty": 41,
+    "last_update": "2026-03-28T20:00:00"
+  },
+  {
+    "product_id": "P005",
+    "store_id": "S06",
+    "stock_qty": 54,
+    "last_update": "2026-03-30T05:00:00"
+  },
+  {
+    "product_id": "P006",
+    "store_id": "S01",
+    "stock_qty": 5,
+    "last_update": "2026-03-31T18:00:00"
+  },
+  {
+    "product_id": "P006",
+    "store_id": "S02",
+    "stock_qty": 10,
+    "last_update": "2026-03-31T09:00:00"
+  },
+  {
+    "product_id": "P006",
+    "store_id": "S03",
+    "stock_qty": 40,
+    "last_update": "2026-03-29T23:00:00"
+  },
+  {
+    "product_id": "P006",
+    "store_id": "S04",
+    "stock_qty": 49,
+    "last_update": "2026-03-29T22:00:00"
+  },
+  {
+    "product_id": "P006",
+    "store_id": "S05",
+    "stock_qty": 28,
+    "last_update": "2026-03-30T02:00:00"
+  },
+  {
+    "product_id": "P006",
+    "store_id": "S06",
+    "stock_qty": 21,
+    "last_update": "2026-03-29T06:00:00"
+  },
+  {
+    "product_id": "P007",
+    "store_id": "S01",
+    "stock_qty": 9,
+    "last_update": "2026-03-30T09:00:00"
+  },
+  {
+    "product_id": "P007",
+    "store_id": "S02",
+    "stock_qty": 60,
+    "last_update": "2026-03-28T22:00:00"
+  },
+  {
+    "product_id": "P007",
+    "store_id": "S03",
+    "stock_qty": 78,
+    "last_update": "2026-03-30T16:00:00"
+  },
+  {
+    "product_id": "P007",
+    "store_id": "S04",
+    "stock_qty": 20,
+    "last_update": "2026-03-29T05:00:00"
+  },
+  {
+    "product_id": "P007",
+    "store_id": "S05",
+    "stock_qty": 41,
+    "last_update": "2026-03-30T11:00:00"
+  },
+  {
+    "product_id": "P007",
+    "store_id": "S06",
+    "stock_qty": 57,
+    "last_update": "2026-03-29T16:00:00"
+  },
+  {
+    "product_id": "P008",
+    "store_id": "S01",
+    "stock_qty": 29,
+    "last_update": "2026-03-29T10:00:00"
+  },
+  {
+    "product_id": "P008",
+    "store_id": "S02",
+    "stock_qty": 73,
+    "last_update": "2026-03-30T16:00:00"
+  },
+  {
+    "product_id": "P008",
+    "store_id": "S03",
+    "stock_qty": 71,
+    "last_update": "2026-03-31T10:00:00"
+  },
+  {
+    "product_id": "P008",
+    "store_id": "S04",
+    "stock_qty": 38,
+    "last_update": "2026-03-29T15:00:00"
+  },
+  {
+    "product_id": "P008",
+    "store_id": "S05",
+    "stock_qty": 36,
+    "last_update": "2026-03-31T07:00:00"
+  },
+  {
+    "product_id": "P008",
+    "store_id": "S06",
+    "stock_qty": 41,
+    "last_update": "2026-03-30T13:00:00"
+  },
+  {
+    "product_id": "P009",
+    "store_id": "S01",
+    "stock_qty": 7,
+    "last_update": "2026-03-29T03:00:00"
+  },
+  {
+    "product_id": "P009",
+    "store_id": "S02",
+    "stock_qty": 12,
+    "last_update": "2026-03-29T22:00:00"
+  },
+  {
+    "product_id": "P009",
+    "store_id": "S03",
+    "stock_qty": 54,
+    "last_update": "2026-03-31T17:00:00"
+  },
+  {
+    "product_id": "P009",
+    "store_id": "S04",
+    "stock_qty": 1,
+    "last_update": "2026-03-30T20:00:00"
+  },
+  {
+    "product_id": "P009",
+    "store_id": "S05",
+    "stock_qty": 5,
+    "last_update": "2026-03-30T03:00:00"
+  },
+  {
+    "product_id": "P009",
+    "store_id": "S06",
+    "stock_qty": 72,
+    "last_update": "2026-03-29T09:00:00"
+  },
+  {
+    "product_id": "P010",
+    "store_id": "S01",
+    "stock_qty": 62,
+    "last_update": "2026-03-30T17:00:00"
+  },
+  {
+    "product_id": "P010",
+    "store_id": "S02",
+    "stock_qty": 37,
+    "last_update": "2026-03-30T18:00:00"
+  },
+  {
+    "product_id": "P010",
+    "store_id": "S03",
+    "stock_qty": 51,
+    "last_update": "2026-03-29T07:00:00"
+  },
+  {
+    "product_id": "P010",
+    "store_id": "S04",
+    "stock_qty": 33,
+    "last_update": "2026-03-31T06:00:00"
+  },
+  {
+    "product_id": "P010",
+    "store_id": "S05",
+    "stock_qty": 7,
+    "last_update": "2026-03-31T17:00:00"
+  },
+  {
+    "product_id": "P010",
+    "store_id": "S06",
+    "stock_qty": 45,
+    "last_update": "2026-03-29T22:00:00"
+  },
+  {
+    "product_id": "P011",
+    "store_id": "S01",
+    "stock_qty": 12,
+    "last_update": "2026-03-31T05:00:00"
+  },
+  {
+    "product_id": "P011",
+    "store_id": "S02",
+    "stock_qty": 42,
+    "last_update": "2026-03-30T22:00:00"
+  },
+  {
+    "product_id": "P011",
+    "store_id": "S03",
+    "stock_qty": 18,
+    "last_update": "2026-03-29T11:00:00"
+  },
+  {
+    "product_id": "P011",
+    "store_id": "S04",
+    "stock_qty": 9,
+    "last_update": "2026-03-28T22:00:00"
+  },
+  {
+    "product_id": "P011",
+    "store_id": "S05",
+    "stock_qty": 42,
+    "last_update": "2026-03-31T09:00:00"
+  },
+  {
+    "product_id": "P011",
+    "store_id": "S06",
+    "stock_qty": 18,
+    "last_update": "2026-03-29T06:00:00"
+  },
+  {
+    "product_id": "P012",
+    "store_id": "S01",
+    "stock_qty": 34,
+    "last_update": "2026-03-31T14:00:00"
+  },
+  {
+    "product_id": "P012",
+    "store_id": "S02",
+    "stock_qty": 21,
+    "last_update": "2026-03-30T19:00:00"
+  },
+  {
+    "product_id": "P012",
+    "store_id": "S03",
+    "stock_qty": 62,
+    "last_update": "2026-03-30T17:00:00"
+  },
+  {
+    "product_id": "P012",
+    "store_id": "S04",
+    "stock_qty": 73,
+    "last_update": "2026-03-30T23:00:00"
+  },
+  {
+    "product_id": "P012",
+    "store_id": "S05",
+    "stock_qty": 79,
+    "last_update": "2026-03-29T13:00:00"
+  },
+  {
+    "product_id": "P012",
+    "store_id": "S06",
+    "stock_qty": 57,
+    "last_update": "2026-03-29T06:00:00"
+  },
+  {
+    "product_id": "P013",
+    "store_id": "S01",
+    "stock_qty": 66,
+    "last_update": "2026-03-30T22:00:00"
+  },
+  {
+    "product_id": "P013",
+    "store_id": "S02",
+    "stock_qty": 39,
+    "last_update": "2026-03-28T22:00:00"
+  },
+  {
+    "product_id": "P013",
+    "store_id": "S03",
+    "stock_qty": 51,
+    "last_update": "2026-03-29T21:00:00"
+  },
+  {
+    "product_id": "P013",
+    "store_id": "S04",
+    "stock_qty": 60,
+    "last_update": "2026-03-31T02:00:00"
+  },
+  {
+    "product_id": "P013",
+    "store_id": "S05",
+    "stock_qty": 34,
+    "last_update": "2026-03-30T16:00:00"
+  },
+  {
+    "product_id": "P013",
+    "store_id": "S06",
+    "stock_qty": 16,
+    "last_update": "2026-03-30T17:00:00"
+  },
+  {
+    "product_id": "P014",
+    "store_id": "S01",
+    "stock_qty": 73,
+    "last_update": "2026-03-30T15:00:00"
+  },
+  {
+    "product_id": "P014",
+    "store_id": "S02",
+    "stock_qty": 11,
+    "last_update": "2026-03-30T20:00:00"
+  },
+  {
+    "product_id": "P014",
+    "store_id": "S03",
+    "stock_qty": 39,
+    "last_update": "2026-03-29T18:00:00"
+  },
+  {
+    "product_id": "P014",
+    "store_id": "S04",
+    "stock_qty": 19,
+    "last_update": "2026-03-31T04:00:00"
+  },
+  {
+    "product_id": "P014",
+    "store_id": "S05",
+    "stock_qty": 15,
+    "last_update": "2026-03-29T21:00:00"
+  },
+  {
+    "product_id": "P014",
+    "store_id": "S06",
+    "stock_qty": 80,
+    "last_update": "2026-03-28T20:00:00"
+  },
+  {
+    "product_id": "P015",
+    "store_id": "S01",
+    "stock_qty": 10,
+    "last_update": "2026-03-30T12:00:00"
+  },
+  {
+    "product_id": "P015",
+    "store_id": "S02",
+    "stock_qty": 35,
+    "last_update": "2026-03-29T10:00:00"
+  },
+  {
+    "product_id": "P015",
+    "store_id": "S03",
+    "stock_qty": 76,
+    "last_update": "2026-03-29T20:00:00"
+  },
+  {
+    "product_id": "P015",
+    "store_id": "S04",
+    "stock_qty": 12,
+    "last_update": "2026-03-31T16:00:00"
+  },
+  {
+    "product_id": "P015",
+    "store_id": "S05",
+    "stock_qty": 30,
+    "last_update": "2026-03-29T21:00:00"
+  },
+  {
+    "product_id": "P015",
+    "store_id": "S06",
+    "stock_qty": 33,
+    "last_update": "2026-03-30T12:00:00"
+  },
+  {
+    "product_id": "P016",
+    "store_id": "S01",
+    "stock_qty": 22,
+    "last_update": "2026-03-28T18:00:00"
+  },
+  {
+    "product_id": "P016",
+    "store_id": "S02",
+    "stock_qty": 39,
+    "last_update": "2026-03-29T12:00:00"
+  },
+  {
+    "product_id": "P016",
+    "store_id": "S03",
+    "stock_qty": 20,
+    "last_update": "2026-03-31T15:00:00"
+  },
+  {
+    "product_id": "P016",
+    "store_id": "S04",
+    "stock_qty": 36,
+    "last_update": "2026-03-29T16:00:00"
+  },
+  {
+    "product_id": "P016",
+    "store_id": "S05",
+    "stock_qty": 18,
+    "last_update": "2026-03-28T21:00:00"
+  },
+  {
+    "product_id": "P016",
+    "store_id": "S06",
+    "stock_qty": 20,
+    "last_update": "2026-03-28T19:00:00"
+  },
+  {
+    "product_id": "P017",
+    "store_id": "S01",
+    "stock_qty": 49,
+    "last_update": "2026-03-30T00:00:00"
+  },
+  {
+    "product_id": "P017",
+    "store_id": "S02",
+    "stock_qty": 79,
+    "last_update": "2026-03-30T11:00:00"
+  },
+  {
+    "product_id": "P017",
+    "store_id": "S03",
+    "stock_qty": 6,
+    "last_update": "2026-03-29T16:00:00"
+  },
+  {
+    "product_id": "P017",
+    "store_id": "S04",
+    "stock_qty": 37,
+    "last_update": "2026-03-29T00:00:00"
+  },
+  {
+    "product_id": "P017",
+    "store_id": "S05",
+    "stock_qty": 20,
+    "last_update": "2026-03-30T23:00:00"
+  },
+  {
+    "product_id": "P017",
+    "store_id": "S06",
+    "stock_qty": 71,
+    "last_update": "2026-03-29T08:00:00"
+  },
+  {
+    "product_id": "P018",
+    "store_id": "S01",
+    "stock_qty": 12,
+    "last_update": "2026-03-31T06:00:00"
+  },
+  {
+    "product_id": "P018",
+    "store_id": "S02",
+    "stock_qty": 61,
+    "last_update": "2026-03-30T16:00:00"
+  },
+  {
+    "product_id": "P018",
+    "store_id": "S03",
+    "stock_qty": 69,
+    "last_update": "2026-03-29T07:00:00"
+  },
+  {
+    "product_id": "P018",
+    "store_id": "S04",
+    "stock_qty": 61,
+    "last_update": "2026-03-31T10:00:00"
+  },
+  {
+    "product_id": "P018",
+    "store_id": "S05",
+    "stock_qty": 32,
+    "last_update": "2026-03-28T23:00:00"
+  },
+  {
+    "product_id": "P018",
+    "store_id": "S06",
+    "stock_qty": 70,
+    "last_update": "2026-03-30T08:00:00"
+  },
+  {
+    "product_id": "P019",
+    "store_id": "S01",
+    "stock_qty": 62,
+    "last_update": "2026-03-28T21:00:00"
+  },
+  {
+    "product_id": "P019",
+    "store_id": "S02",
+    "stock_qty": 11,
+    "last_update": "2026-03-31T07:00:00"
+  },
+  {
+    "product_id": "P019",
+    "store_id": "S03",
+    "stock_qty": 55,
+    "last_update": "2026-03-31T00:00:00"
+  },
+  {
+    "product_id": "P019",
+    "store_id": "S04",
+    "stock_qty": 17,
+    "last_update": "2026-03-31T08:00:00"
+  },
+  {
+    "product_id": "P019",
+    "store_id": "S05",
+    "stock_qty": 60,
+    "last_update": "2026-03-29T03:00:00"
+  },
+  {
+    "product_id": "P019",
+    "store_id": "S06",
+    "stock_qty": 14,
+    "last_update": "2026-03-30T11:00:00"
+  },
+  {
+    "product_id": "P020",
+    "store_id": "S01",
+    "stock_qty": 22,
+    "last_update": "2026-03-29T02:00:00"
+  },
+  {
+    "product_id": "P020",
+    "store_id": "S02",
+    "stock_qty": 20,
+    "last_update": "2026-03-30T05:00:00"
+  },
+  {
+    "product_id": "P020",
+    "store_id": "S03",
+    "stock_qty": 78,
+    "last_update": "2026-03-31T16:00:00"
+  },
+  {
+    "product_id": "P020",
+    "store_id": "S04",
+    "stock_qty": 45,
+    "last_update": "2026-03-30T18:00:00"
+  },
+  {
+    "product_id": "P020",
+    "store_id": "S05",
+    "stock_qty": 80,
+    "last_update": "2026-03-31T13:00:00"
+  },
+  {
+    "product_id": "P020",
+    "store_id": "S06",
+    "stock_qty": 41,
+    "last_update": "2026-03-31T04:00:00"
+  },
+  {
+    "product_id": "P021",
+    "store_id": "S01",
+    "stock_qty": 68,
+    "last_update": "2026-03-31T01:00:00"
+  },
+  {
+    "product_id": "P021",
+    "store_id": "S02",
+    "stock_qty": 16,
+    "last_update": "2026-03-29T08:00:00"
+  },
+  {
+    "product_id": "P021",
+    "store_id": "S03",
+    "stock_qty": 74,
+    "last_update": "2026-03-29T21:00:00"
+  },
+  {
+    "product_id": "P021",
+    "store_id": "S04",
+    "stock_qty": 59,
+    "last_update": "2026-03-31T03:00:00"
+  },
+  {
+    "product_id": "P021",
+    "store_id": "S05",
+    "stock_qty": 33,
+    "last_update": "2026-03-30T22:00:00"
+  },
+  {
+    "product_id": "P021",
+    "store_id": "S06",
+    "stock_qty": 47,
+    "last_update": "2026-03-31T04:00:00"
+  },
+  {
+    "product_id": "P022",
+    "store_id": "S01",
+    "stock_qty": 55,
+    "last_update": "2026-03-30T23:00:00"
+  },
+  {
+    "product_id": "P022",
+    "store_id": "S02",
+    "stock_qty": 16,
+    "last_update": "2026-03-30T10:00:00"
+  },
+  {
+    "product_id": "P022",
+    "store_id": "S03",
+    "stock_qty": 58,
+    "last_update": "2026-03-30T10:00:00"
+  },
+  {
+    "product_id": "P022",
+    "store_id": "S04",
+    "stock_qty": 36,
+    "last_update": "2026-03-30T17:00:00"
+  },
+  {
+    "product_id": "P022",
+    "store_id": "S05",
+    "stock_qty": 23,
+    "last_update": "2026-03-31T06:00:00"
+  },
+  {
+    "product_id": "P022",
+    "store_id": "S06",
+    "stock_qty": 12,
+    "last_update": "2026-03-29T05:00:00"
+  },
+  {
+    "product_id": "P023",
+    "store_id": "S01",
+    "stock_qty": 14,
+    "last_update": "2026-03-29T05:00:00"
+  },
+  {
+    "product_id": "P023",
+    "store_id": "S02",
+    "stock_qty": 59,
+    "last_update": "2026-03-29T06:00:00"
+  },
+  {
+    "product_id": "P023",
+    "store_id": "S03",
+    "stock_qty": 51,
+    "last_update": "2026-03-29T10:00:00"
+  },
+  {
+    "product_id": "P023",
+    "store_id": "S04",
+    "stock_qty": 75,
+    "last_update": "2026-03-29T01:00:00"
+  },
+  {
+    "product_id": "P023",
+    "store_id": "S05",
+    "stock_qty": 79,
+    "last_update": "2026-03-31T17:00:00"
+  },
+  {
+    "product_id": "P023",
+    "store_id": "S06",
+    "stock_qty": 75,
+    "last_update": "2026-03-30T12:00:00"
+  },
+  {
+    "product_id": "P024",
+    "store_id": "S01",
+    "stock_qty": 19,
+    "last_update": "2026-03-30T22:00:00"
+  },
+  {
+    "product_id": "P024",
+    "store_id": "S02",
+    "stock_qty": 49,
+    "last_update": "2026-03-31T00:00:00"
+  },
+  {
+    "product_id": "P024",
+    "store_id": "S03",
+    "stock_qty": 10,
+    "last_update": "2026-03-30T06:00:00"
+  },
+  {
+    "product_id": "P024",
+    "store_id": "S04",
+    "stock_qty": 80,
+    "last_update": "2026-03-30T09:00:00"
+  },
+  {
+    "product_id": "P024",
+    "store_id": "S05",
+    "stock_qty": 49,
+    "last_update": "2026-03-29T07:00:00"
+  },
+  {
+    "product_id": "P024",
+    "store_id": "S06",
+    "stock_qty": 77,
+    "last_update": "2026-03-31T10:00:00"
+  },
+  {
+    "product_id": "P025",
+    "store_id": "S01",
+    "stock_qty": 31,
+    "last_update": "2026-03-29T13:00:00"
+  },
+  {
+    "product_id": "P025",
+    "store_id": "S02",
+    "stock_qty": 65,
+    "last_update": "2026-03-29T22:00:00"
+  },
+  {
+    "product_id": "P025",
+    "store_id": "S03",
+    "stock_qty": 17,
+    "last_update": "2026-03-30T14:00:00"
+  },
+  {
+    "product_id": "P025",
+    "store_id": "S04",
+    "stock_qty": 75,
+    "last_update": "2026-03-30T17:00:00"
+  },
+  {
+    "product_id": "P025",
+    "store_id": "S05",
+    "stock_qty": 18,
+    "last_update": "2026-03-30T05:00:00"
+  },
+  {
+    "product_id": "P025",
+    "store_id": "S06",
+    "stock_qty": 77,
+    "last_update": "2026-03-29T22:00:00"
+  },
+  {
+    "product_id": "P001",
+    "store_id": "S01",
+    "stock_qty": 5,
+    "last_update": "2026-03-31T10:00:00"
+  }
+]

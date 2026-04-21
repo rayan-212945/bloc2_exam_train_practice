@@ -1,0 +1,26 @@
+product_id,product_name,category,brand,cost_price,sale_price
+P001,Kappa Laptop 1,Laptop,Kappa,473.24,813
+P002,NovaTech Laptop 2,Laptop,NovaTech,775.22,1391
+P003,NovaTech Laptop 3, laptop ,NovaTech,626.12,922
+P004,Kappa Laptop 4,Laptop,Kappa,935.06,1364
+P005,NovaTech Laptop 5,Laptop,NovaTech,864.58,1476
+P006,Aster Laptop 6,Laptop,Aster,598.17,803
+P007,BlueWave Smartphone 1,Smartphone,BlueWave,265.42,343
+P008,Aster Smartphone 2,Smartphone,Aster,598.11,864
+P009,Aster Smartphone 3,smartPhone,Aster,298.2,495
+P010,Aster Smartphone 4,Smartphone,Aster,351.35,537
+P011,Aster Smartphone 5,Smartphone,Aster,482.34,678
+P012,BlueWave Smartphone 6,Smartphone,BlueWave,218.58,372
+P013,BlueWave Tablet 1,Tablet,BlueWave,351.84,473
+P014,NovaTech Tablet 2,Tablet,NovaTech,323.31,572
+P015,BlueWave Tablet 3,Tablet,BlueWave,498.21,760
+P016,BlueWave Tablet 4,Tablet,BlueWave,335.94,518
+P017,BlueWave Audio 1,Audio,BlueWave,102.19,179
+P018,SoundPro Audio 2,Audio,SoundPro,172.48,251
+P019,BlueWave Audio 3,Audio,BlueWave,142.3,184
+P020,SoundPro Audio 4,Audio,SoundPro,175.15,241
+P021,NovaTech Accessory 1,Accessory,NovaTech,40.2,73
+P022,NovaTech Accessory 2,Accessory,NovaTech,21.01,28
+P023,NovaTech Accessory 3,Accessory,NovaTech,44.97,62
+P024,GearUp Accessory 4,Accessory,GearUp,22.15,29
+P025,NovaTech Accessory 5,Accessory,NovaTech,66.8,87

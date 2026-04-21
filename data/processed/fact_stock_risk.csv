@@ -1,0 +1,116 @@
+product_id,store_id,sales_7d,sales_30d,avg_rating,stock_qty,category,region,web_signal,stockout_risk
+P001,S01,4,8,3.2,5,laptop,ile-de-france,37,0
+P001,S02,0,10,3.2,11,laptop,auvergne-rhone-alpes,37,0
+P001,S03,0,16,3.2,59,laptop,hauts de france,37,0
+P001,S05,3,8,3.2,42,laptop,occitanie,37,0
+P001,S06,0,8,3.2,9,laptop,pays de la loire,37,0
+P002,S01,0,1,3.25,11,laptop,ile-de-france,7,0
+P002,S03,0,4,3.25,59,laptop,hauts de france,7,0
+P002,S05,0,2,3.25,56,laptop,occitanie,7,0
+P002,S06,5,5,3.25,27,laptop,pays de la loire,7,0
+P003,S01,0,1,4.5,26,laptop,ile-de-france,8,0
+P003,S02,4,7,4.5,52,laptop,auvergne-rhone-alpes,8,0
+P003,S03,0,8,4.5,67,laptop,hauts de france,8,0
+P003,S04,0,3,4.5,33,laptop,provence-alpes-cote d azur,8,0
+P003,S05,0,1,4.5,0,laptop,occitanie,8,0
+P003,S06,3,4,4.5,36,laptop,pays de la loire,8,0
+P004,S01,0,5,3.0,4,laptop,ile-de-france,9,0
+P004,S02,14,16,3.0,1,laptop,auvergne-rhone-alpes,9,1
+P004,S03,1,6,3.0,48,laptop,hauts de france,9,0
+P004,S04,0,1,3.0,11,laptop,provence-alpes-cote d azur,9,0
+P004,S05,4,8,3.0,62,laptop,occitanie,9,0
+P004,S06,5,6,3.0,29,laptop,pays de la loire,9,0
+P005,S01,0,3,3.6,65,laptop,ile-de-france,10,0
+P005,S02,4,7,3.6,34,laptop,auvergne-rhone-alpes,10,0
+P005,S03,0,2,3.6,77,laptop,hauts de france,10,0
+P005,S05,3,5,3.6,41,laptop,occitanie,10,0
+P005,S06,2,3,3.6,54,laptop,pays de la loire,10,0
+P006,S03,0,3,4.5,40,laptop,hauts de france,11,0
+P006,S04,2,3,4.5,49,laptop,provence-alpes-cote d azur,11,0
+P006,S06,5,5,4.5,21,laptop,pays de la loire,11,0
+P007,S01,2,4,5.0,9,smartphone,ile-de-france,14,0
+P007,S02,0,4,5.0,60,smartphone,auvergne-rhone-alpes,14,0
+P007,S04,4,5,5.0,20,smartphone,provence-alpes-cote d azur,14,0
+P007,S05,0,2,5.0,41,smartphone,occitanie,14,0
+P007,S06,3,7,5.0,57,smartphone,pays de la loire,14,0
+P008,S01,3,3,4.5,29,smartphone,ile-de-france,8,0
+P008,S04,1,2,4.5,38,smartphone,provence-alpes-cote d azur,8,0
+P008,S06,0,3,4.5,41,smartphone,pays de la loire,8,0
+P009,S01,6,7,3.6,7,smartphone,ile-de-france,6,1
+P009,S03,0,6,3.6,54,smartphone,hauts de france,6,0
+P009,S04,0,15,3.6,1,smartphone,provence-alpes-cote d azur,6,0
+P009,S06,4,4,3.6,72,smartphone,pays de la loire,6,0
+P010,S01,0,9,5.0,62,smartphone,ile-de-france,7,0
+P010,S03,3,3,5.0,51,smartphone,hauts de france,7,0
+P010,S04,6,6,5.0,33,smartphone,provence-alpes-cote d azur,7,0
+P010,S05,0,1,5.0,7,smartphone,occitanie,7,0
+P010,S06,2,5,5.0,45,smartphone,pays de la loire,7,0
+P011,S01,0,1,3.8,12,smartphone,ile-de-france,6,0
+P011,S02,2,7,3.8,42,smartphone,auvergne-rhone-alpes,6,0
+P011,S03,0,2,3.8,18,smartphone,hauts de france,6,0
+P011,S04,0,3,3.8,9,smartphone,provence-alpes-cote d azur,6,0
+P011,S05,0,7,3.8,42,smartphone,occitanie,6,0
+P011,S06,4,9,3.8,18,smartphone,pays de la loire,6,0
+P012,S02,3,8,3.3333333333333335,21,smartphone,auvergne-rhone-alpes,9,0
+P012,S03,0,4,3.3333333333333335,62,smartphone,hauts de france,9,0
+P012,S04,0,1,3.3333333333333335,73,smartphone,provence-alpes-cote d azur,9,0
+P012,S06,2,4,3.3333333333333335,57,smartphone,pays de la loire,9,0
+P013,S01,0,5,4.5,66,tablet,ile-de-france,13,0
+P013,S02,0,4,4.5,39,tablet,auvergne-rhone-alpes,13,0
+P013,S03,5,7,4.5,51,tablet,hauts de france,13,0
+P013,S05,2,5,4.5,34,tablet,occitanie,13,0
+P013,S06,0,3,4.5,16,tablet,pays de la loire,13,0
+P014,S02,2,3,5.0,11,tablet,auvergne-rhone-alpes,12,0
+P014,S03,1,2,5.0,39,tablet,hauts de france,12,0
+P014,S04,1,3,5.0,19,tablet,provence-alpes-cote d azur,12,0
+P014,S05,0,2,5.0,15,tablet,occitanie,12,0
+P014,S06,1,2,5.0,80,tablet,pays de la loire,12,0
+P015,S01,0,1,3.2,10,tablet,ile-de-france,5,0
+P015,S02,0,4,3.2,35,tablet,auvergne-rhone-alpes,5,0
+P015,S03,0,1,3.2,76,tablet,hauts de france,5,0
+P015,S05,0,1,3.2,30,tablet,occitanie,5,0
+P015,S06,5,5,3.2,33,tablet,pays de la loire,5,0
+P016,S01,0,4,2.75,22,tablet,ile-de-france,7,0
+P016,S02,0,1,2.75,39,tablet,auvergne-rhone-alpes,7,0
+P016,S03,0,1,2.75,20,tablet,hauts de france,7,0
+P016,S04,0,8,2.75,36,tablet,provence-alpes-cote d azur,7,0
+P016,S05,6,6,2.75,18,tablet,occitanie,7,0
+P016,S06,0,8,2.75,20,tablet,pays de la loire,7,0
+P017,S01,2,6,4.111111111111111,49,audio,ile-de-france,6,0
+P017,S02,2,2,4.111111111111111,79,audio,auvergne-rhone-alpes,6,0
+P017,S03,1,5,4.111111111111111,6,audio,hauts de france,6,0
+P017,S04,0,3,4.111111111111111,37,audio,provence-alpes-cote d azur,6,0
+P017,S05,4,6,4.111111111111111,20,audio,occitanie,6,0
+P018,S01,0,1,4.25,12,audio,ile-de-france,3,0
+P018,S03,2,3,4.25,69,audio,hauts de france,3,0
+P018,S04,1,5,4.25,61,audio,provence-alpes-cote d azur,3,0
+P018,S06,0,6,4.25,70,audio,pays de la loire,3,0
+P019,S02,0,5,4.5,11,audio,auvergne-rhone-alpes,12,0
+P019,S03,9,11,4.5,55,audio,hauts de france,12,0
+P019,S04,2,2,4.5,17,audio,provence-alpes-cote d azur,12,0
+P019,S05,0,6,4.5,60,audio,occitanie,12,0
+P019,S06,2,4,4.5,14,audio,pays de la loire,12,0
+P020,S01,0,5,3.5714285714285716,22,audio,ile-de-france,10,0
+P020,S02,0,5,3.5714285714285716,20,audio,auvergne-rhone-alpes,10,0
+P020,S03,1,1,3.5714285714285716,78,audio,hauts de france,10,0
+P020,S05,2,2,3.5714285714285716,80,audio,occitanie,10,0
+P020,S06,0,3,3.5714285714285716,41,audio,pays de la loire,10,0
+P021,S01,0,3,4.0,68,accessory,ile-de-france,7,0
+P021,S02,0,1,4.0,16,accessory,auvergne-rhone-alpes,7,0
+P021,S03,3,3,4.0,74,accessory,hauts de france,7,0
+P021,S04,1,6,4.0,59,accessory,provence-alpes-cote d azur,7,0
+P021,S05,0,5,4.0,33,accessory,occitanie,7,0
+P022,S01,0,7,4.166666666666667,55,accessory,ile-de-france,11,0
+P022,S03,1,7,4.166666666666667,58,accessory,hauts de france,11,0
+P022,S04,0,3,4.166666666666667,36,accessory,provence-alpes-cote d azur,11,0
+P022,S06,0,1,4.166666666666667,12,accessory,pays de la loire,11,0
+P023,S01,1,2,4.25,14,accessory,ile-de-france,8,0
+P023,S06,0,4,4.25,75,accessory,pays de la loire,8,0
+P024,S01,0,2,3.8,19,accessory,ile-de-france,5,0
+P024,S02,0,1,3.8,49,accessory,auvergne-rhone-alpes,5,0
+P024,S03,0,2,3.8,10,accessory,hauts de france,5,0
+P024,S06,1,1,3.8,77,accessory,pays de la loire,5,0
+P025,S02,0,1,4.166666666666667,65,accessory,auvergne-rhone-alpes,9,0
+P025,S03,2,2,4.166666666666667,17,accessory,hauts de france,9,0
+P025,S04,2,6,4.166666666666667,75,accessory,provence-alpes-cote d azur,9,0
+P025,S05,6,7,4.166666666666667,18,accessory,occitanie,9,0

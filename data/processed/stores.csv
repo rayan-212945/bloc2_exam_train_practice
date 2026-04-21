@@ -1,0 +1,7 @@
+store_id,store_name,city,region,opening_date
+S01,RetailPulse Paris,Paris,Ile-de-France,2020-03-31
+S02,RetailPulse Lyon,Lyon,Auvergne-Rhone-Alpes,2020-06-29
+S03,RetailPulse Lille,Lille,Hauts de France,2020-09-27
+S04,RetailPulse Marseille,Marseille,Provence-Alpes-Cote d Azur,2020-12-26
+S05,RetailPulse Toulouse,Toulouse,Occitanie,2021-03-26
+S06,RetailPulse Nantes,Nantes,Pays de la Loire,2021-06-24

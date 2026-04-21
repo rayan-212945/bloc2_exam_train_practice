@@ -1,0 +1,7 @@
+dataset,rows,columns,duplicates,null_order_id,null_product_id,null_store_id,null_review_id,null_event_id
+orders,373,8,0,0.0,0.0,0.0,,
+products,25,6,0,,0.0,,,
+stores,6,5,0,,,0.0,,
+inventory,150,4,0,,0.0,0.0,,
+reviews,119,5,0,,0.0,,0.0,
+events,240,5,0,,0.0,,,0.0
